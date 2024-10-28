@@ -12,6 +12,7 @@ class Scientist {
         this.field = field;
     }
 
+
     public String getLastName() {
         return lastName;
     }
